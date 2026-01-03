@@ -1,0 +1,9 @@
+{
+    "directory_to_watch": "C:\\Users\\Usuario\\Desktop\\pruebaEnvio",
+    "recipient_email": "manuonia@gmail.com",
+    
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "oniamanu@gmail.com",
+    "sender_password": "lrkc juax ugpb yebd" 
+}
